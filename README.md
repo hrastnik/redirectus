@@ -1,1 +1,2 @@
-inital commit
+Run `yarn`
+Run `yarn start`
